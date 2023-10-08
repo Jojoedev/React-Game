@@ -1,0 +1,37 @@
+
+.icon{
+    margin-left: 300px;
+}
+
+.form{
+    font: 25px;
+    padding: 20px;
+    color: black;
+    margin: 20px;
+    border: 1px red solid;
+    background-color: teal;
+    line-height: 30px;
+    width: 400px;
+    align-self: center;
+}
+input{
+    height: 25px;
+    margin: 10px;
+}
+button{
+    
+    background-color: teal;
+    font-size: 20px;
+    cursor: pointer;
+    width: auto;
+    margin: 10px;
+    box-shadow:0cqh;
+}
+
+.footer{
+    margin-top: 70px;
+    color: black;
+    font-size: large;
+    text-align: center;
+    background-color:#f4f4f4;
+}
